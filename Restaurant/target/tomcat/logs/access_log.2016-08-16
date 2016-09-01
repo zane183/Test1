@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1%0 - - [16/Aug/2016:11:57:43 +0800] "GET /Restaurant/noodles HTTP/1.1" 500 1521 http-bio-8080-exec-1 81
+0:0:0:0:0:0:0:1%0 - - [16/Aug/2016:11:58:13 +0800] "GET /Restaurant/noodles HTTP/1.1" 500 1521 http-bio-8080-exec-2 5
+0:0:0:0:0:0:0:1%0 - - [16/Aug/2016:12:03:56 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-1 113
+0:0:0:0:0:0:0:1%0 - - [16/Aug/2016:12:04:17 +0800] "GET /Restaurant/noodles=Tomato HTTP/1.1" 404 1001 http-bio-8080-exec-2 14
+0:0:0:0:0:0:0:1%0 - - [16/Aug/2016:12:04:38 +0800] "GET /Restaurant/noodles?vegetable=Tomato HTTP/1.1" 200 58 http-bio-8080-exec-3 3

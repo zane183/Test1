@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Restaurant Maven Webapp"
+  id="myeclipse.1471181692319"
+  context-root="/Restaurant"
+  j2ee-spec="6.0"
+  archive="Restaurant Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
